@@ -1,0 +1,50 @@
+﻿.header {
+background:url(../imges/image.png) no-repeat;
+height:100vh;
+background-size:cover;
+position:relative;  
+
+}
+/*.Name {
+background:url(../imges/colorful.png) repeat-x;
+
+}*/
+
+.wrapper{
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+background: black;
+opacity: 0.8;
+overflow: hidden;
+}
+.contact {
+    overflow:hidden;
+}
+.contact p {
+
+color:white;
+}
+
+
+.Name h1 {
+    font-family:cursive;
+    font-size:50px;
+      padding: 40px 0px  50px 0;
+    color:#FFEE6D;
+      text-shadow: rgb(212, 138, 228) 0px 4px 0;
+}
+.Name p {
+width:50%;
+color:white;
+}
+
+.personal_Profile {
+ background:url(../imges/quotebox1.png) repeat;
+    height:500px;
+}
+.personal_Profile_cntnt {
+   
+}
